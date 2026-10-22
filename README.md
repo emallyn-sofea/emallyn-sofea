@@ -1,15 +1,17 @@
 # Hi, I'm Emallyn Sofea
 
-I'm a Computer Science student at UiTM with an interest in software development, artificial intelligence, and machine learning.
+I am a Computer Science student at UiTM interested in software development, web applications and artificial intelligence technologies.
 
 ## About me
 - Studying: Bachelor of Computer Science (Hons.), UiTM
 - Currently learning: Java, Software Engineering, Data Mining and Parallel Computing
 - My FYP area: Artificial Intelligence / Machine Learning
 
-## Skills and tools
-- Programming: Java, C++
-- Development: NetBeans
+## Skills and Tools
+
+- Programming Languages: Java, C++
+- Web Development: HTML, JSP, Servlets
+- Development Tools: NetBeans
 
 ## Projects
 - BrewBase : A university cafeteria ordering system developed as part of a software engineering / enterprise programming project.
